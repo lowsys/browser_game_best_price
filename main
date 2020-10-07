@@ -15,8 +15,8 @@ fireFoxOptions.headless = True
 #here you have to modify lines according to your paths and credentials
 binary = FirefoxBinary("C:\\Program Files\\Mozilla Firefox\\firefox.exe")
 geckodriver = "C:\\python\\Python37\\geckodriver.exe"
-user_name = "astala_vista"
-password = "dupadupa"
+user_name = "login"
+password = "password"
 #end of your modifications
 delay = 5
 heat_icon_CSS = """#root > div > div > div.game-content > div.combine-main-area > div.game-right-panel > 
@@ -151,9 +151,9 @@ def show_best_offers():
 
 
 
-#open idlescape game site
+#open game site
 try:
-    browser.get("https://www.idlescape.com/")
+    browser.get("URL")
 except TimeoutException:
     print("Site is not responding, check your connetion")
 
