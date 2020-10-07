@@ -6,7 +6,7 @@
 5. Market don't give a best price per heat
 6. This program solves this issues by showing 3 best offers in terms of gold per 1 heat
 
-Example output:
+Example output (it shows correct as raw):
 Item         Offer No    Amount    Price per piece    Gold per one heat
 ---------  ----------  --------  -----------------  -------------------
 Maple Log           1       461                125                 1.79
