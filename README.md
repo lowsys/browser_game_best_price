@@ -12,3 +12,5 @@ Item         Offer No    Amount    Price per piece    Gold per one heat
 Maple Log           1       461                125                 1.79
 Maple Log           2       189                179                 2.56
 Maple Log           3      1000                180                 2.57
+
+7. Using this kind of script is treated by game developers as illegal, so i'm not sharing game name or site.
