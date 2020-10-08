@@ -3,7 +3,7 @@
 2. You can buy items which gives heat
 3. There is a lot of items which gives different values of heat per item e.g. Branch gieves 1 heat, Coal gives 10 heat etc.
 4. Market gives you best price per item eg. chepaset coal offer or cheapest branch offer but:
-5. Market don't give a best price per heat
+5. Market doesn't give the best price per heat
 6. This program solves this issues by showing 3 best offers in terms of gold per 1 heat
 
 Example output (it shows correct as raw):
